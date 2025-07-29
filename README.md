@@ -3,7 +3,7 @@
   <li>Bryan Diaz</li>
   <li>Gerardo Campos</li>
   <li>Rene Fuentes</li>
-  <li>Jonathan Segura</li>
+  <li>Victor Arevalo</li>
 </ul>
 
 
