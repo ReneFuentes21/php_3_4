@@ -1,5 +1,11 @@
 # ejecicios hechos en php realizados en clases
-Bryan Diaz
-Gerardo Campos
-Rene Fuentes
-Jonathan Segura
+<ul>
+  <li>Bryan Diaz</li>
+  <li>Gerardo Campos</li>
+  <li>Rene Fuentes</li>
+  <li>Jonathan Segura</li>
+</ul>
+
+
+
+
