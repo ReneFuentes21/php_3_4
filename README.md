@@ -4,6 +4,7 @@
   <li>Gerardo Campos</li>
   <li>Rene Fuentes</li>
   <li>Victor Arevalo</li>
+  <li>Jonathan Segura</li>
 </ul>
 
 
